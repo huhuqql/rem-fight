@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "right-blast-2",
+    "texture": "37a76462-d994-4d04-a716-58e9e866759c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      19,
+      43
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      19,
+      43
+    ]
+  }
+}

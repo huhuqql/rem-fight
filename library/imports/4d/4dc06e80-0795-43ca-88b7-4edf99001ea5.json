@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "naked",
+    "texture": "6bfa423c-e93f-482b-af61-30f11cc458f0",
+    "atlas": "",
+    "rect": [
+      5,
+      4,
+      118,
+      186
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      128,
+      192
+    ]
+  }
+}

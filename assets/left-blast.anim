@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "left-blast",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.2833333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "244a48f3-0f16-479d-8060-5d002f477632"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "8a375871-eeda-4bc5-855f-0f3209e784f9"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "f7d2112f-090c-49d4-88a8-a0a83a59e840"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "2446c317-da4d-4568-9c21-5f815c7479a1"
+            }
+          },
+          {
+            "frame": 0.26666666666666666,
+            "value": {
+              "__uuid__": "244a48f3-0f16-479d-8060-5d002f477632"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "back-blast-2",
+    "texture": "b86f47c4-38c2-4117-9f78-00bdb900035e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      23,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      23,
+      42
+    ]
+  }
+}

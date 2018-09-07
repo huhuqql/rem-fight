@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rem",
+    "texture": "4b80315d-c210-4729-8fdd-2b20f6e1cc45",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      23,
+      43
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      23,
+      43
+    ]
+  }
+}

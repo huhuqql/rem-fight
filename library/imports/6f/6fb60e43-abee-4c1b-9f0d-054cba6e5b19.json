@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "red-bullet",
+    "texture": "fb77b0d4-020d-4f7a-8353-4e19d5626af8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      12,
+      13
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      12,
+      13
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "catAvatar",
+    "texture": "3d1a0ceb-27d5-4880-8aaa-801f7cd56354",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      191,
+      194
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      191,
+      194
+    ]
+  }
+}

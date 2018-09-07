@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hulk-2",
+    "texture": "d05c68c6-f82a-4b12-a2c5-b288bad0a91b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      77,
+      100
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      77,
+      100
+    ]
+  }
+}

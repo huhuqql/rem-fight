@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Load Game",
+    "texture": "d9f7c00c-3a88-4fc2-9ad1-238bfd670ac8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      104,
+      15
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      104,
+      15
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "front-blast-2",
+    "texture": "268f01ed-4852-4629-86d5-9e0900e66586",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      23,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      23,
+      42
+    ]
+  }
+}

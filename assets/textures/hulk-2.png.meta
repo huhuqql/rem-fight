@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "d05c68c6-f82a-4b12-a2c5-b288bad0a91b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "hulk-2": {
+      "ver": "1.0.3",
+      "uuid": "4ef53a5b-ca84-480b-aeff-babce5ae6253",
+      "rawTextureUuid": "d05c68c6-f82a-4b12-a2c5-b288bad0a91b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 77,
+      "height": 100,
+      "rawWidth": 77,
+      "rawHeight": 100,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
